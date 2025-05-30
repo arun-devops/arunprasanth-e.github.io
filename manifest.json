@@ -1,0 +1,21 @@
+{
+  "name": "Arunprasanth E - Associate Architect Portfolio",
+  "short_name": "AE Portfolio",
+  "description": "Professional portfolio of Arunprasanth E, Associate Architect specializing in AWS and Azure cloud solutions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
